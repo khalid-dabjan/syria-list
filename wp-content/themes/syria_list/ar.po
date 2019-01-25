@@ -1,0 +1,176 @@
+# Copyright (C) 2019 Khalid Dabjan
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: syria_list 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/syria_list\n"
+"POT-Creation-Date: 2019-01-13T10:31:17+00:00\n"
+"PO-Revision-Date: 2019-01-13 16:23+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Domain: syria_list\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#. Theme Name of the theme
+msgid "syria_list"
+msgstr "‫syria_list"
+
+#. Theme URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Description of the theme
+msgid "Description"
+msgstr ""
+
+#. Author of the theme
+msgid "Khalid Dabjan"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://dabjan.com/"
+msgstr ""
+
+#: single-business.php:132
+msgid "Similar Places"
+msgstr "أماكن مشابهة"
+
+#: 404.php:16
+msgid "The page you are looking for could not be found."
+msgstr "الصفحة التي تبحث عنها غير موجودة."
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:38
+msgid "Partners Only"
+msgstr "الشركاء فقط"
+
+#: search.php:49
+msgid "Show All"
+msgstr "عرض الكل"
+
+#: search.php:105
+msgid "No results were found."
+msgstr "لا يوجد نتائج."
+
+#: header.php:50
+msgid "Language:"
+msgstr "اللغة:"
+
+#: header.php:67 header.php:115
+msgid "Become A Partner"
+msgstr "انضم كشريك"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لا نتائج"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: footer.php:18
+msgid "Download the Syria List app"
+msgstr "حمل تطبيق Syria List"
+
+#: footer.php:31
+msgid "Content"
+msgstr "المحتوى"
+
+#: footer.php:36
+msgid "About"
+msgstr "معلومات"
+
+#: footer.php:41
+msgid "Follow us"
+msgstr "تابعنا"
+
+#. Template Name of the theme
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: front-page.php:26
+msgid "Find And Connect With Businesses Around Syria"
+msgstr "إبحث وتواصل مع المؤسسات التجارية في سوريا"
+
+#: front-page.php:31
+msgid "What are you looking for?"
+msgstr "ما الذي تحاول إيجاده؟"
+
+#: search.php:76
+msgid "All"
+msgstr "جميع المدن"

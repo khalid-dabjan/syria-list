@@ -1,0 +1,60 @@
+/*
+Theme Name: syria_list
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+/*
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+*/
+
+.pin-r {
+    left: 0;
+    right: initial;
+}
+
+.pr-6 {
+    padding-left: 1.5rem;
+}
+
+.pr-4 {
+    padding-left: 1rem;
+}
+
+.border-r {
+    border-left-width: 1px;
+    border-right-width: 0;
+}
+
+.mr-3 {
+    margin-right: 0;
+    margin-left: .75rem;
+}
+
+.mr-2 {
+    margin-right: 0;
+    margin-left: .5rem;
+}
+
+input[type="radio"] + label:before {
+    margin-right: 0;
+    margin-left: .3rem;
+}
+
+.pin-r {
+    right: unset;
+    left: 0;
+}
+
+.pin-l {
+    right: 0;
+    left: unset;
+}
